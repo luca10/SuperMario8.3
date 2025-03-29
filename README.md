@@ -36,7 +36,7 @@ CMake può essere installato tramite il gestore di pacchetti del tuo sistema ope
 
  ## Contributi
  
-Il progetto è stato fatto insieme al mio compagno di corso Matteo D'Aprano. 
+Il progetto è stato realizzato insieme al mio compagno di corso, **Matteo D'Aprano**.
 
 ## Compilazione e Esecuzione
 
