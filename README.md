@@ -34,10 +34,10 @@ CMake può essere installato tramite il gestore di pacchetti del tuo sistema ope
 - **Ubuntu**: `sudo apt-get install cmake`
 - **MacOS (Homebrew)**: `brew install cmake`
 
-## Compilazione e Esecuzione
-
-## Contributi
+ ## Contributi
 Il progetto è stato fatto insieme al mio compagno di corso Matteo D'Aprano. 
+
+## Compilazione e Esecuzione
 
 1. Clona il repository:
    ```bash
