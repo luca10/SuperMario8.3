@@ -1,6 +1,6 @@
 # Super Mario 8-3 Level Project
 
-Questo progetto è una riproduzione del livello 8-3 del gioco **Super Mario Bros.** realizzato utilizzando il linguaggio di programmazione **C++** e il framework **Qt** per l'interfaccia grafica. È stato sviluppato come parte di un esame universitario.
+Questo progetto è una riproduzione del livello 8-3 del gioco **Super Mario Bros.** realizzato utilizzando il linguaggio di programmazione **C++** e il framework **Qt** per l'interfaccia grafica. È stato sviluppato come parte di un esame universitario del corso di Ingegneria Informatica e delle Telecomunicazioni presso l'università di Cassino e del Lazio Meridionale. 
 
 ## Descrizione
 
@@ -35,6 +35,9 @@ CMake può essere installato tramite il gestore di pacchetti del tuo sistema ope
 - **MacOS (Homebrew)**: `brew install cmake`
 
 ## Compilazione e Esecuzione
+
+## Contributi
+Il progetto è stato fatto insieme al mio compagno di corso Matteo D'Aprano. 
 
 1. Clona il repository:
    ```bash
